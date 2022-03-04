@@ -22,6 +22,6 @@ graph TD;
 
 ```mermaid
 graph TD;
-me-->lavi;
-lavi->me;
+Me-->Lavi;
+Lavi-->Me;
 ```
