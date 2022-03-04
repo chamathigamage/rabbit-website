@@ -22,7 +22,6 @@ graph TD;
 
 ```mermaid
 graph TD;
-me-->lavi;ask
-lavi->me;confused
-someone-else-->me;help
+me-->lavi;
+lavi->me;
 ```
