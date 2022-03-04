@@ -17,7 +17,7 @@ this worked, pls work again
 ```mermaid
 sequenceDiargram
     A-->B;
-    A-->C;
+    A-->C:
     B-->D:
     C-->D:
 ```
