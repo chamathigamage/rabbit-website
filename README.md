@@ -15,11 +15,7 @@ this worked, pls work again
 3rd try, this better work or else
 
 ```mermaid
-sequenceDiargram
-    A-->B;
-    A-->C:
-    B-->D:
-    C-->D:
+graph TD;
+  A-->B;
+  A-->C;
 ```
-
-hi
