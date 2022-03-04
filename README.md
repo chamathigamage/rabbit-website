@@ -18,6 +18,6 @@ this worked, pls work again
 sequenceDiargram
     A-->B;
     A-->C;
-    B-->D;
-    C-->D;
+    B-->D:
+    C-->D:
 ```
